@@ -1,0 +1,31 @@
+.resume-section {
+    padding-top: 112px;
+}
+
+.blog-entry .meta {
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+span {
+    color: #ffbd39;
+}
+
+.mr-2 {
+    margin-right: 0.5rem !important;
+}
+
+
+a {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    color: #ffbd39;
+    color: #007bff;
+    text-decoration: none !important;
+    background-color: transparent;
+}

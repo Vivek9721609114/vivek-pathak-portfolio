@@ -1,0 +1,77 @@
+.about-section {
+    padding-top: 112px;
+}
+
+.about-form {
+    position: relative;
+}
+
+
+
+.about-Img {
+    width: 100%;
+    height: 600px;
+    background-image: url(../../assets/v.k.jpeg);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.big {
+    position: absolute !important;
+    top: 0px !important;
+    left: 0 !important;
+    font-size: 7vw !important;
+    color: rgba(255, 255, 255, 0.1) !important;
+    z-index: -1 !important;
+    font-weight: 900 !important;
+    padding: 0 !important;
+}
+
+.h2-text {
+    font-size: 50px !important;
+    font-weight: 700 !important;
+    color: white;
+}
+
+
+.about-form p {
+    text-align: start;
+}
+
+.about-form li {
+    margin-bottom: 10px;
+}
+
+li span:first-child {
+    width: 130px;
+    font-weight: 600;
+    color: #fff;
+}
+
+li span:last-child {
+    background: #000000;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #999999;
+}
+
+
+.about-text {
+    padding-top: 0;
+    padding-left: 48px !important;
+    padding-bottom: 48px !important;
+    padding-right: 15px !important;
+}
+
+.Project-count span:first-child {
+    color: #ffbd39 !important;
+    font-weight: 600 !important;
+}
+
+.text-project p {
+    font-size: 22px !important;
+    font-weight: 400 !important;
+}

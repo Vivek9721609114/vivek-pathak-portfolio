@@ -1,0 +1,62 @@
+.project-section {
+    padding-top: 112px;
+}
+
+.img-project-1 {
+    width: 100%;
+    height: 285px;
+    background-image: url(../../assets/project-4.jpg.webp) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.img-project-2 {
+    width: 100%;
+    height: 285px;
+    background-image: url(../../assets/project-4.jpg.webp) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.img-project-3 {
+    width: 100%;
+    height: 285px;
+    background-image: url(../../assets/project-4.jpg.webp) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.img-project-4 {
+    width: 100%;
+    height: 285px;
+    background-image: url(../../assets/project-4.jpg.webp) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+
+.text {
+    width: 100% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.text a {
+    color: #fff !important;
+}
+
+span {
+    color: #fff !important;
+}
+
+.text:hover {
+    background:orangered;
+    opacity: 1;
+}

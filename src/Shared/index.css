@@ -1,0 +1,17 @@
+.togglecontainer{
+    width: 100%;
+    display: none;
+}
+.listcontainer{
+    list-style-type: none;
+    width: 70%;
+    text-align: center;
+    padding-top: 2rem;
+    margin: 0 auto;
+}
+.list{
+    text-align: center;
+    width: 80%;
+    color: lightgray;
+    margin-bottom: 0.5rem;
+}

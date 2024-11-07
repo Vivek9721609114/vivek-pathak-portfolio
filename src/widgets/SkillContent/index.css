@@ -1,0 +1,12 @@
+.progress{
+    margin-bottom: 30px !important;
+    height: 11px !important;
+
+}
+.progress-bar{
+    background: #ffbd39 !important;
+}
+.main-line h3{
+    font-size: 18px !important;
+    color: white !important;
+}

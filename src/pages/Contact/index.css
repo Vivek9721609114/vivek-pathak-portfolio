@@ -1,0 +1,75 @@
+.contact-section {
+    padding-top: 112px;
+}
+
+.img {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.contact-section .img {
+    width: 100%;
+    height: auto;
+    background-image: url(../../assets/v.k.jpeg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-group {
+    text-align: left !important;
+}
+
+
+.contact-from {
+    width: 100%;
+}
+
+.contact-from .form-group {
+    margin-bottom: 1rem;
+}
+
+.form-control {
+    width: 100% !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 17px !important;
+
+}
+
+.form-control {
+    height: 52px !important;
+    background: #fff !important;
+    color: #000000 !important;
+    border-radius: 5px !important;
+    display: block !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+}
+
+.form-control {
+    border: 1px solid #999999 !important;
+}
+
+input:focus {
+    outline: 1.5px solid #000000 !important;
+}
+
+textarea {
+    width: 100% !important;
+}
+
+textarea:focus {
+    outline: 1.5px solid #000000 !important;
+}
+
+textarea {
+    border: 1px solid #999999 !important;
+    background: #fff !important;
+    color: #000000 !important;
+    border-radius: 5px !important;
+    display: block !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+
+}

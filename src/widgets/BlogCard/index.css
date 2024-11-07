@@ -1,0 +1,28 @@
+.blog-content span {
+    color: #ffbd39 !important;
+    text-transform: uppercase;
+    text-align: 2px;
+    font-size: 15px;
+}
+
+.blog-content a {
+    color: #ffbd39 !important;
+}
+
+.blog-content .heading {
+    font-size: 21px;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+
+.blog-content .heading a {
+    color: #fff !important;
+}
+
+.blog-content p {
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #999999;
+    text-align: start;
+}

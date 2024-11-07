@@ -1,0 +1,40 @@
+.col {
+    width: 25%;
+    padding: 0px 15px;
+}
+
+.Boxes {
+    padding: 24px !important;
+    display: flex !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.Icones {
+    width: 100px;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50px;
+    margin: auto;
+    margin-bottom: 32px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.Icon-h2 {
+    text-align: center;
+    margin-bottom: 1.5rem !important;
+    font-size: 19px !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    color: white !important;
+
+}
+
+p {
+    text-align: center;
+    margin-bottom: 1rem !important;
+
+}

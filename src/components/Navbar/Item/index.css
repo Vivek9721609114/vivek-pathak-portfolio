@@ -1,0 +1,28 @@
+.li-items {
+    padding: 11.200px 20px;
+    font-weight: 400;
+    color: #fff;
+    list-style: none;
+    transition: 0.5s;
+}
+
+.li-items span {
+    padding-bottom: 2px;
+    position: relative;
+}
+
+.li-items::before {
+    position: absolute;
+    content: '';
+    width: 60px;
+    height: 3px;
+    bottom: 1;
+    background: orange;
+    transition: 0.5s;
+    transform: scale(0);
+    transform-origin: left;
+}
+
+.li-items:hover::before {
+    transform: scale(1);
+}
